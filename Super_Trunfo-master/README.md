@@ -140,12 +140,3 @@ Implementação, em C++ v11/14, do jogo Super Trunfo via terminal. Sendo possív
 </tr>
 </tbody>
 </table>
-
-<h1>Contribuidores</h1>
-
-<ul>
-  <li>Diego Tomaz</li>
-  <li>Lucas Silveira</li>
-  <li>Matheus Dias</li>
-  <li>Rodrigo Felipe</li>
-</ul>
