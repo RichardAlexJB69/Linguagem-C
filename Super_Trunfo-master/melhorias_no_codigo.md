@@ -11,7 +11,7 @@ escolha do  baralho o player 1 escolhe o primeiro atributo, e quem vence a rodad
  118 linhas na versão final.
 
 <h1>Documentação</h1>
-Foi adicionada uma documentação referente ao nosso projeto no arquivo do github, na apresentação do dia 26(terça) nosso projeto não 
+Foi adicionada uma documentação referente ao nosso projeto no arquivo do github, na apresentação do dia 4(terça) nosso projeto não 
 havia documentação.
 
 
